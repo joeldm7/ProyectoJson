@@ -1,0 +1,308 @@
+[
+    {
+        "categoria": "accion",
+        "title": "The Shawshank Redemption",
+        "id": "tt0111161",
+        "director": "Stanley Kubrick",
+        "oscar": 7,
+        "fecha": 2004,
+        "rank": "1"
+    },
+    {
+        "categoria": "drama",
+        "title": "The Godfather",
+        "id": "tt0068646",
+        "director": "Peter Jackson",
+        "oscar": 4,
+        "fecha": 1991,
+        "rank": "2"
+    },
+    {
+        "categoria": "comedia",
+        "title": "The Godfather: Part II",
+        "id": "tt0071562",
+        "director": "Martin Scorsese",
+        "oscar": 1,
+        "fecha": 2008,
+        "rank": "3"
+    },
+    {
+        "categoria": "terror",
+        "title": "Pulp Fiction",
+        "id": "tt0110912",
+        "director": "Steven Spielberg",
+        "oscar": 1,
+        "fecha": 2009,
+        "rank": "4"
+    },
+    {
+        "categoria": "accion",
+        "title": "The Good, the Bad and the Ugly",
+        "id": "tt0060196",
+        "director": "Stanley Kubrick",
+        "oscar": 7,
+        "fecha": 1992,
+        "rank": "5"
+    },
+    {
+        "categoria": "drama",
+        "title": "The Dark Knight",
+        "id": "tt0468569",
+        "director": "Martin Scorsese",
+        "oscar": 8,
+        "fecha": 1999,
+        "rank": "6"
+    },
+    {
+        "categoria": "comedia",
+        "title": "12 Angry Men",
+        "id": "tt0050083",
+        "director": "Steven Spielberg",
+        "oscar": 2,
+        "fecha": 2007,
+        "rank": "7"
+    },
+    {
+        "categoria": "accion",
+        "title": "Schindler's List",
+        "id": "tt0108052",
+        "director": "Peter Jackson",
+        "oscar": 3,
+        "fecha": 1998,
+        "rank": "8"
+    },
+    {
+        "categoria": "accion",
+        "title": "The Lord of the Rings: The Return of the King",
+        "id": "tt0167260",
+        "director": "Stanley Kubrick",
+        "oscar": 0,
+        "fecha": 1994,
+        "rank": "9"
+    },
+    {
+        "categoria": "accion",
+        "title": "Fight Club",
+        "id": "tt0137523",
+        "director": "Peter Jackson",
+        "oscar": 1,
+        "fecha": 1999,
+        "rank": "10"
+    },
+    {
+        "categoria": "accion",
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "id": "tt0080684",
+        "director": "Martin Scorsese",
+        "oscar": 1,
+        "fecha": 1994,
+        "rank": "11"
+    },
+    {
+        "categoria": "accion",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "id": "tt0120737",
+        "director": "Peter Jackson",
+        "oscar": 7,
+        "fecha": 1999,
+        "rank": "12"
+    },
+    {
+        "categoria": "accion",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "id": "tt0073486",
+        "director": "Quentin Tarantino",
+        "oscar": 1,
+        "fecha": 1993,
+        "rank": "13"
+    },
+    {
+        "categoria": "drama",
+        "title": "Inception",
+        "id": "tt1375666",
+        "director": "Martin Scorsese",
+        "oscar": 0,
+        "fecha": 2005,
+        "rank": "14"
+    },
+    {
+        "categoria": "terror",
+        "title": "Goodfellas",
+        "id": "tt0099685",
+        "director": "Peter Jackson",
+        "oscar": 9,
+        "fecha": 1993,
+        "rank": "15"
+    },
+    {
+        "categoria": "accion",
+        "title": "Star Wars",
+        "id": "tt0076759",
+        "director": "Stanley Kubrick",
+        "oscar": 7,
+        "fecha": 2001,
+        "rank": "16"
+    },
+    {
+        "categoria": "drama",
+        "title": "Seven Samurai",
+        "id": "tt0047478",
+        "director": "Peter Jackson",
+        "oscar": 6,
+        "fecha": 2004,
+        "rank": "17"
+    },
+    {
+        "categoria": "accion",
+        "title": "Forrest Gump",
+        "id": "tt0109830",
+        "director": "Martin Scorsese",
+        "oscar": 4,
+        "fecha": 2008,
+        "rank": "18"
+    },
+    {
+        "categoria": "comedia",
+        "title": "The Matrix",
+        "id": "tt0133093",
+        "director": "Steven Spielberg",
+        "oscar": 5,
+        "fecha": 1994,
+        "rank": "19"
+    },
+    {
+        "categoria": "accion",
+        "title": "The Lord of the Rings: The Two Towers",
+        "id": "tt0167261",
+        "director": "Peter Jackson",
+        "oscar": 8,
+        "fecha": 1999,
+        "rank": "20"
+    },
+    {
+        "categoria": "terror",
+        "title": "City of God",
+        "id": "tt0317248",
+        "director": "Quentin Tarantino",
+        "oscar": 0,
+        "fecha": 2004,
+        "rank": "21"
+    },
+    {
+        "categoria": "accion",
+        "title": "Se7en",
+        "id": "tt0114369",
+        "director": "Martin Scorsese",
+        "oscar": 3,
+        "fecha": 1990,
+        "rank": "22"
+    },
+    {
+        "categoria": "drama",
+        "title": "The Silence of the Lambs",
+        "id": "tt0102926",
+        "director": "Steven Spielberg",
+        "oscar": 5,
+        "fecha": 1995,
+        "rank": "23"
+    },
+    {
+        "categoria": "accion",
+        "title": "Once Upon a Time in the West",
+        "id": "tt0064116",
+        "director": "Stanley Kubrick",
+        "oscar": 5,
+        "fecha": 1990,
+        "rank": "24"
+    },
+    {
+        "categoria": "terror",
+        "title": "Casablanca",
+        "id": "tt0034583",
+        "director": "Steven Spielberg",
+        "oscar": 4,
+        "fecha": 1999,
+        "rank": "25"
+    },
+    {
+        "categoria": "comedia",
+        "title": "The Usual Suspects",
+        "id": "tt0114814",
+        "director": "Francis Ford Coppola",
+        "oscar": 0,
+        "fecha": 2009,
+        "rank": "26"
+    },
+    {
+        "categoria": "accion",
+        "title": "Raiders of the Lost Ark",
+        "id": "tt0082971",
+        "director": "Steven Spielberg",
+        "oscar": 0,
+        "fecha": 2001,
+        "rank": "27"
+    },
+    {
+        "categoria": "terror",
+        "title": "Rear Window",
+        "id": "tt0047396",
+        "director": "Quentin Tarantino",
+        "oscar": 1,
+        "fecha": 1991,
+        "rank": "28"
+    },
+    {
+        "categoria": "accion",
+        "title": "It's a Wonderful Life",
+        "id": "tt0038650",
+        "director": "Francis Ford Coppola",
+        "oscar": 9,
+        "fecha": 2001,
+        "rank": "29"
+    },
+    {
+        "categoria": "drama",
+        "title": "Psycho",
+        "id": "tt0054215",
+        "director": "Steven Spielberg",
+        "oscar": 2,
+        "fecha": 1993,
+        "rank": "30"
+    },
+    {
+        "categoria": "accion",
+        "title": "Leon: The Professional",
+        "id": "tt0110413",
+        "director": "Francis Ford Coppola",
+        "oscar": 2,
+        "fecha": 2000,
+        "rank": "31"
+    },
+    {
+        "categoria": "accion",
+        "title": "Sunset Blvd.",
+        "id": "tt0043014",
+        "director": "Peter Jackson",
+        "oscar": 7,
+        "fecha": 1995,
+        "rank": "32"
+    },
+    {
+        "categoria": "terror",
+        "title": "American History X",
+        "id": "tt0120586",
+        "director": "Francis Ford Coppola",
+        "oscar": 9,
+        "fecha": 1993,
+        "rank": "33"
+    },
+    {
+        "categoria": "drama",
+        "title": "Apocalypse Now",
+        "id": "tt0078788",
+        "director": "Steven Spielberg",
+        "oscar": 1,
+        "fecha": 2007,
+        "rank": "34"
+    }
+]

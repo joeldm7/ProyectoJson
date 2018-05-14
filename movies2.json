@@ -1,0 +1,802 @@
+[
+    {
+        "oscar": "1",
+        "rank": "1",
+        "categoria": "accion",
+        "title": "The Shawshank Redemption",
+        "id": "tt0111161",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "2",
+        "categoria": "accion",
+        "title": "The Godfather",
+        "id": "tt0068646",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "3",
+        "categoria": "accion",
+        "title": "The Godfather: Part II",
+        "id": "tt0071562",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "4",
+        "categoria": "accion",
+        "title": "Pulp Fiction",
+        "id": "tt0110912",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "5",
+        "categoria": "accion",
+        "title": "The Good, the Bad and the Ugly",
+        "id": "tt0060196",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "6",
+        "categoria": "accion",
+        "title": "The Dark Knight",
+        "id": "tt0468569",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "7",
+        "categoria": "accion",
+        "title": "12 Angry Men",
+        "id": "tt0050083",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "8",
+        "categoria": "accion",
+        "title": "Schindler's List",
+        "id": "tt0108052",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "9",
+        "categoria": "accion",
+        "title": "The Lord of the Rings: The Return of the King",
+        "id": "tt0167260",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "10",
+        "categoria": "accion",
+        "title": "Fight Club",
+        "id": "tt0137523",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "11",
+        "categoria": "accion",
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "id": "tt0080684",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "12",
+        "categoria": "accion",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "id": "tt0120737",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "13",
+        "categoria": "accion",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "id": "tt0073486",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "14",
+        "categoria": "accion",
+        "title": "Inception",
+        "id": "tt1375666",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "15",
+        "categoria": "accion",
+        "title": "Goodfellas",
+        "id": "tt0099685",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "16",
+        "categoria": "accion",
+        "title": "Star Wars",
+        "id": "tt0076759",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "17",
+        "categoria": "accion",
+        "title": "Seven Samurai",
+        "id": "tt0047478",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "18",
+        "categoria": "accion",
+        "title": "Forrest Gump",
+        "id": "tt0109830",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "19",
+        "categoria": "accion",
+        "title": "The Matrix",
+        "id": "tt0133093",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "20",
+        "categoria": "accion",
+        "title": "The Lord of the Rings: The Two Towers",
+        "id": "tt0167261",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "21",
+        "categoria": "accion",
+        "title": "City of God",
+        "id": "tt0317248",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "22",
+        "categoria": "accion",
+        "title": "Se7en",
+        "id": "tt0114369",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "23",
+        "categoria": "accion",
+        "title": "The Silence of the Lambs",
+        "id": "tt0102926",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "24",
+        "categoria": "accion",
+        "title": "Once Upon a Time in the West",
+        "id": "tt0064116",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "25",
+        "categoria": "accion",
+        "title": "Casablanca",
+        "id": "tt0034583",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "26",
+        "categoria": "accion",
+        "title": "The Usual Suspects",
+        "id": "tt0114814",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "27",
+        "categoria": "accion",
+        "title": "Raiders of the Lost Ark",
+        "id": "tt0082971",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "28",
+        "categoria": "accion",
+        "title": "Rear Window",
+        "id": "tt0047396",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "29",
+        "categoria": "accion",
+        "title": "It's a Wonderful Life",
+        "id": "tt0038650",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "30",
+        "categoria": "accion",
+        "title": "Psycho",
+        "id": "tt0054215",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "31",
+        "categoria": "accion",
+        "title": "Leon: The Professional",
+        "id": "tt0110413",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "32",
+        "categoria": "accion",
+        "title": "Sunset Blvd.",
+        "id": "tt0043014",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "33",
+        "categoria": "accion",
+        "title": "American History X",
+        "id": "tt0120586",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "34",
+        "categoria": "accion",
+        "title": "Apocalypse Now",
+        "id": "tt0078788",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "35",
+        "categoria": "accion",
+        "title": "Terminator 2: Judgment Day",
+        "id": "tt0103064",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "36",
+        "categoria": "accion",
+        "title": "Saving Private Ryan",
+        "id": "tt0120815",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "37",
+        "categoria": "accion",
+        "title": "Memento",
+        "id": "tt0209144",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "38",
+        "categoria": "accion",
+        "title": "City Lights",
+        "id": "tt0021749",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "39",
+        "categoria": "accion",
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "id": "tt0057012",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "40",
+        "categoria": "accion",
+        "title": "Alien",
+        "id": "tt0078748",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "41",
+        "categoria": "accion",
+        "title": "Modern Times",
+        "id": "tt0027977",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "42",
+        "categoria": "accion",
+        "title": "Spirited Away",
+        "id": "tt0245429",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "43",
+        "categoria": "accion",
+        "title": "North by Northwest",
+        "id": "tt0053125",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "44",
+        "categoria": "accion",
+        "title": "Back to the Future",
+        "id": "tt0088763",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "45",
+        "categoria": "accion",
+        "title": "Life Is Beautiful",
+        "id": "tt0118799",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "46",
+        "categoria": "accion",
+        "title": "The Shining",
+        "id": "tt0081505",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "47",
+        "categoria": "accion",
+        "title": "The Pianist",
+        "id": "tt0253474",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "48",
+        "categoria": "accion",
+        "title": "Citizen Kane",
+        "id": "tt0033467",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "49",
+        "categoria": "accion",
+        "title": "The Departed",
+        "id": "tt0407887",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "50",
+        "categoria": "accion",
+        "title": "M",
+        "id": "tt0022100",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "51",
+        "categoria": "accion",
+        "title": "Paths of Glory",
+        "id": "tt0050825",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "52",
+        "categoria": "accion",
+        "title": "Vertigo",
+        "id": "tt0052357",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "53",
+        "categoria": "accion",
+        "title": "Django Unchained",
+        "id": "tt1853728",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "54",
+        "categoria": "accion",
+        "title": "Double Indemnity",
+        "id": "tt0036775",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "55",
+        "categoria": "accion",
+        "title": "The Dark Knight Rises",
+        "id": "tt1345836",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "56",
+        "categoria": "accion",
+        "title": "Aliens",
+        "id": "tt0090605",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "57",
+        "categoria": "accion",
+        "title": "Taxi Driver",
+        "id": "tt0075314",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "58",
+        "categoria": "accion",
+        "title": "American Beauty",
+        "id": "tt0169547",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "59",
+        "categoria": "accion",
+        "title": "The Green Mile",
+        "id": "tt0120689",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "60",
+        "categoria": "accion",
+        "title": "Gladiator",
+        "id": "tt0172495",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "61",
+        "categoria": "accion",
+        "title": "The Intouchables",
+        "id": "tt1675434",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "62",
+        "categoria": "accion",
+        "title": "WALLE",
+        "id": "tt0910970",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "63",
+        "categoria": "accion",
+        "title": "The Lives of Others",
+        "id": "tt0405094",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "64",
+        "categoria": "accion",
+        "title": "Toy Story 3",
+        "id": "tt0435761",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "65",
+        "categoria": "accion",
+        "title": "The Great Dictator",
+        "id": "tt0032553",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "66",
+        "categoria": "accion",
+        "title": "The Prestige",
+        "id": "tt0482571",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "67",
+        "categoria": "accion",
+        "title": "A Clockwork Orange",
+        "id": "tt0066921",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "68",
+        "categoria": "accion",
+        "title": "Lawrence of Arabia",
+        "id": "tt0056172",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "69",
+        "categoria": "accion",
+        "title": "Amelie",
+        "id": "tt0211915",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "70",
+        "categoria": "accion",
+        "title": "To Kill a Mockingbird",
+        "id": "tt0056592",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "71",
+        "categoria": "accion",
+        "title": "Reservoir Dogs",
+        "id": "tt0105236",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "72",
+        "categoria": "accion",
+        "title": "Das Boot",
+        "id": "tt0082096",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "73",
+        "categoria": "accion",
+        "title": "The Lion King",
+        "id": "tt0110357",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "74",
+        "categoria": "accion",
+        "title": "Cinema Paradiso",
+        "id": "tt0095765",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "75",
+        "categoria": "accion",
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "id": "tt0086190",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "76",
+        "categoria": "accion",
+        "title": "The Treasure of the Sierra Madre",
+        "id": "tt0040897",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "77",
+        "categoria": "accion",
+        "title": "The Third Man",
+        "id": "tt0041959",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "78",
+        "categoria": "accion",
+        "title": "Once Upon a Time in America",
+        "id": "tt0087843",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "79",
+        "categoria": "accion",
+        "title": "Requiem for a Dream",
+        "id": "tt0180093",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "80",
+        "categoria": "accion",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "id": "tt0338013",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "81",
+        "categoria": "accion",
+        "title": "Full Metal Jacket",
+        "id": "tt0093058",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "82",
+        "categoria": "accion",
+        "title": "Oldboy",
+        "id": "tt0364569",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "83",
+        "categoria": "accion",
+        "title": "Braveheart",
+        "id": "tt0112573",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "84",
+        "categoria": "accion",
+        "title": "L.A. Confidential",
+        "id": "tt0119488",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "85",
+        "categoria": "accion",
+        "title": "Bicycle Thieves",
+        "id": "tt0040522",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "86",
+        "categoria": "accion",
+        "title": "Chinatown",
+        "id": "tt0071315",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "87",
+        "categoria": "accion",
+        "title": "Singin' in the Rain",
+        "id": "tt0045152",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "88",
+        "categoria": "accion",
+        "title": "Princess Mononoke",
+        "id": "tt0119698",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "89",
+        "categoria": "accion",
+        "title": "Monty Python and the Holy Grail",
+        "id": "tt0071853",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "90",
+        "categoria": "accion",
+        "title": "Metropolis",
+        "id": "tt0017136",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "91",
+        "categoria": "accion",
+        "title": "Rashomon",
+        "id": "tt0042876",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "92",
+        "categoria": "accion",
+        "title": "Some Like It Hot",
+        "id": "tt0053291",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "93",
+        "categoria": "accion",
+        "title": "Amadeus",
+        "id": "tt0086879",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "94",
+        "categoria": "accion",
+        "title": "2001: A Space Odyssey",
+        "id": "tt0062622",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "95",
+        "categoria": "accion",
+        "title": "All About Eve",
+        "id": "tt0042192",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "96",
+        "categoria": "accion",
+        "title": "Witness for the Prosecution",
+        "id": "tt0051201",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "97",
+        "categoria": "accion",
+        "title": "The Sting",
+        "id": "tt0070735",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "98",
+        "categoria": "accion",
+        "title": "The Apartment",
+        "id": "tt0053604",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "99",
+        "categoria": "accion",
+        "title": "Grave of the Fireflies",
+        "id": "tt0095327",
+        "director": "Peter Jackson"
+    },
+    {
+        "oscar": "1",
+        "rank": "100",
+        "categoria": "accion",
+        "title": "Indiana Jones and the Last Crusade",
+        "id": "tt0097576",
+        "director": "Peter Jackson"
+    }
+]
